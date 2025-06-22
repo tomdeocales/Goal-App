@@ -1,3 +1,5 @@
+# Tech Stack: Frontend - REACT, Backend - Node.js, Express, PostgreSQL
+
 # Setup
 
 ## Environment Variables
